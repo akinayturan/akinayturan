@@ -1,4 +1,4 @@
-### Hi, I am [Web & Software developer.](https://akin.ayturan.com/) 
+### Hi, I am a [Web & Software developer.](https://akin.ayturan.com/) 
 
 I have rich experience in web site design, building and customization. Good at Wordpress, Laravel, React. Plesk, WHM/Cpanel, CWP server
  management and all web site setup process, google drive and whm cloud backup. Also design control and layout with HTML, CSS to all platform. 
@@ -14,17 +14,17 @@ Resume
 
 -   **Hermes Reklam Ltd. Şti. - Software Developer** [**](https://hermesreklam.com) Remote Work - May 2016 - Apr 2019
 
--   **Gladius Technology Solutions - Software Developer** Remote Work - June 2016 - May 2018 (2 years)
+-   **Gladius Technology Solutions - Software Developer** Remote Work - June 2016 - May 2018
 
--   **Mösyö Bilişim Teknolojileri - Software Developer** [**](https://play.google.com/store/apps/developer?id=M%C3%B6sy%C3%B6+Bili%C5%9Fim+Teknolojileri&hl=tr) April 2015 - May 2016 (1 year 2 months)
+-   **Mösyö Bilişim Teknolojileri - Software Developer** [**](https://play.google.com/store/apps/developer?id=M%C3%B6sy%C3%B6+Bili%C5%9Fim+Teknolojileri&hl=tr) April 2015 - May 2016
 
--   **TBD - Informatics Association of Turkey - Member** [**](http://tbdgenc.org.tr/gecmis-yonetim-kurullari/) June 2014 - March 2015 (10 months)
+-   **TBD - Informatics Association of Turkey - Member** [**](http://tbdgenc.org.tr/gecmis-yonetim-kurullari/) June 2014 - March 2015 
 
--   **Ventura Yazılım Ltd. Şti. - Software Intern** [**](https://www.ventura.com.tr/index.php/en/) August 2014 - September 2014 (2 months)
+-   **Ventura Yazılım Ltd. Şti. - Software Intern** [**](https://www.ventura.com.tr/index.php/en/) August 2014 - September 2014 
 
--   **TAI - Software Intern** [**](https://www.tusas.com/en/) August 2013 - September 2013 (2 months)
+-   **TAI - Software Intern** [**](https://www.tusas.com/en/) August 2013 - September 2013 
 
--   **AIESEC - Member of Incoming Exchange Department** [**](https://aiesec.org/) March 2008 - March 2011 (3 years 1 month)
+-   **AIESEC - Member of Incoming Exchange Department** [**](https://aiesec.org/) March 2008 - March 2011 
 
 Education
 ------------
