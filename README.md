@@ -33,10 +33,6 @@ Education
 
     KTO Karatay University, Electrical and Computer Engineering
 
--   Chamber of Electrical Engineers 1 kV Over and 1 kV Over SMM Certificate -    Ankara/Turkey  (2015-2015)
-
-    Gazi University, (SMM - Serbest Mühendis Müşavir), Electrical and Electronics Engineering
-
 -   Bachelor's degree - Ankara/Turkey (2009 - 2011)
 
     Başkent University, Electrical and Electronics Engineering
@@ -59,6 +55,7 @@ Languages
 Certifications
 --------------
 
+-   Installations Above 1kV and Below 1kV Electricity SMM Certificate - Gazi University - Ankara/Turkey
 -   AutoCAD - Beltek - Ankara/Turkey
 -   Computer Usage - Beltek - Ankara/Turkey
 -   Standart English (B2) - Hampstead School of English - London/England
