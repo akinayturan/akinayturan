@@ -1,4 +1,4 @@
-### Hi, I am a [Web & Software developer.](https://akin.ayturan.com/) 
+### Hi, I am a [Software & Web Developer](https://akin.ayturan.com/) 
 
 I have rich experience in web site design, building and customization. Good at Wordpress, Laravel, React. Plesk, WHM/Cpanel, CWP server
  management and all web site setup process, google drive and whm cloud backup. Also design control and layout with HTML, CSS to all platform. 
