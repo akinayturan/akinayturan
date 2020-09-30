@@ -68,7 +68,7 @@ Certifications
 Publications
 ------------
 
--   Formula for Harmfulness of Cell Phone Waves for One Type of Pollution, Ganesa Moorthy C., Yasin Akın Ayturan. Global NEST Journal. Vol. 3 (3): ss 129 - 133 (2020) [**](https://ijepem.com/volume-3/issue-3/article-5/)
+-   Formula for Harmfulness of Cell Phone Waves for One Type of Pollution, Ganesa Moorthy C., Yasin Akın Ayturan. International Journal of Environmental Pollution and Environmental Modelling Vol. 3 (3): ss 129 - 133 (2020) [**](https://ijepem.com/volume-3/issue-3/article-5/)
 -   Short-Term Prediction of PM2.5 Pollution with Deep Learning Methods, Yasin Akin Ayturan, Zeynep Cansu Ayturan, Huseyin Oktay Altun, Cezar Kongoli, Fatma Didem Tuncez, Sukru Dursun, Ali Ozturk. Global NEST Journal. Vol. 22 (1): ss 126 - 131 (2020) [**](https://doi.org/10.30955/gnj.003208)
 -   Air Pollution Controlled Prototype Modelling of Electrostatic Precipitator for Small Scale Industries, Rajkumar. G., Yasin Akın Ayturan, S. Sekar and Ganesa Moorthy. International Journal of Environmental Pollution and Environmental Modelling, Vol. 3 (1): ss 15-21 (2020) [**](https://ijepem.com/volume-3/issue-1/article-2/)
 -   Forecasting of Particulate Matter Concentration with Deep Learning Method, Science Institute - KTO Karatay University (2019/1) [**](http://acikerisim.karatay.edu.tr:8080/xmlui//handle/20.500.12498/823)
