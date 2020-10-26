@@ -76,3 +76,8 @@ Publications
 -   Air Pollution Modelling with Deep Learning: A Review, Yasin Akın Ayturan, Zeynep Cansu Ayturan, Hüseyin Oktay Altun. International Journal of Environmental Pollution and Environmental Modelling Vol. 1 (3): ss 58-62 (2018) [**](https://ijepem.com/volume-1/issue-3/article-1/)
 -   Air Pollution Modelling With Deep Learning, Yasin Akın Ayturan, Zeynep Cansu Ayturan, Hüseyin Oktay Altun. International Conference of Ecosystems, Proceedings Book ICE2018: ss 301-305 (2018) [**](https://sites.google.com/site/environmenthealthassociation/8th-international-conference-of-ecosystems-june-tirana-albania/proceedings-book-ice2018)
 -   Modelling of PM10 Pollution in Karatay District of Konya with Artificial Neural Networks, Yasin Akın Ayturan, Ali Oztürk, Zeynep Cansu Ayturan. Journal of International Environmental Application and Science Vol. 12 (3): ss 256-263 (2017) [**](https://dergipark.org.tr/en/pub/jieas/issue/40241/479480)
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akinayturan)](https://github.com/anuraghazra/github-readme-stats)
+
