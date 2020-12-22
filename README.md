@@ -1,11 +1,11 @@
 ### Hi, I am a [Software & Web Developer](https://akin.ayturan.com/) 
 
-I have rich experience in web site design, building and customization. Good at Wordpress, Laravel, React. Plesk, WHM/Cpanel, CWP server
- management and all web site setup process, google drive and whm cloud backup. Also design control and layout with HTML, CSS to all platform. 
- I love to talk with you about our unique.
+I have rich experience in web site building, design and customization. Good at Wordpress, Laravel, React. Plesk, WHM/Cpanel, CWP server
+ management and all web site setup with backup process. Also design control and layout with HTML, CSS to all platform. 
+ 
+I love to talk with you about our unique.
 
 * * * * *
-
 
 Resume
 ------
@@ -14,7 +14,7 @@ Resume
 
 -   **Hermes Reklam Ltd. Şti. - Software Developer** [**](https://hermesreklam.com) Remote Work - May 2016 - Apr 2019
 
--   **Gladius Technology Solutions - Software Developer** Remote Work - June 2016 - May 2018
+-   **Gladius Technology Solutions - Software Developer** [**](https://www.linkedin.com/company/gladius-technology-solutions/) Remote Work - June 2016 - May 2018
 
 -   **Mösyö Bilişim Teknolojileri - Software Developer** [**](https://play.google.com/store/apps/developer?id=M%C3%B6sy%C3%B6+Bili%C5%9Fim+Teknolojileri&hl=tr) April 2015 - May 2016
 
@@ -26,20 +26,17 @@ Resume
 
 -   **AIESEC - Member of Incoming Exchange Department** [**](https://aiesec.org/) March 2008 - March 2011 
 
+* * * * *
+
 Education
 ------------
 
--   Master of Science degree - Konya/Turkey   (2017 - 2019)
+-   **Master of science Degree**, Electrical and Computer Engineering (2017 - 2019)  [**](https://karatay.edu.tr/) 
+    KTO Karatay University, Konya/Turkey
 
-    KTO Karatay University, Electrical and Computer Engineering
-
--   Bachelor's degree - Ankara/Turkey (2009 - 2011)
-
-    Başkent University, Electrical and Electronics Engineering
-
--   High School - Ankara/Turkey (2004 - 2007)
-
-    Gazi University Foundation Science High School, Science High School
+-   **Bachelor's Degree**, Electrical and Electronics Engineering (2009 - 2011) [**](https://www.baskent.edu.tr/en/) Başkent University, Ankara/Turkey
+    
+-   **High School**, Science High School (2004 - 2007) [**](https://www.gazikoleji.k12.tr/Fen-Lisesi) Gazi University Foundation Science High School, Ankara/Turkey
 
 * * * * *
 
@@ -47,8 +44,8 @@ Languages
 ---------
 
 -   Turkish (Native)
--   English (Professional Working)
--   German (Elementary)
+-   English - with B1 Certificate (Professional Working)
+-   German - with A1 Certificate (Elementary) 
 
 * * * * *
 
