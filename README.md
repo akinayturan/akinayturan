@@ -44,8 +44,8 @@ Languages
 ---------
 
 -   Turkish (Native)
--   English - with B1 Certificate (Professional Working)
--   German - with A1 Certificate (Elementary) 
+-   English (Professional Working with B1 Certificate)
+-   German (Elementary with A1 Certificate) 
 
 * * * * *
 
