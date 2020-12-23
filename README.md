@@ -77,5 +77,8 @@ Publications
 * * * * *
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akinayturan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akinayturan&layout=compact) ![Akin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=akinayturan&show_icons=true&count_private=true)
 
+* * * * *
+
+![Profile Views](https://komarev.com/ghpvc/?username=akinayturan)
