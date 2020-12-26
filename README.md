@@ -31,7 +31,7 @@ Resume
 Education
 ------------
 
--   **Master of science Degree**, Electrical and Computer Engineering (2017 - 2019)  [**](https://karatay.edu.tr/) 
+-   **Master of Science Degree**, Electrical and Computer Engineering (2017 - 2019)  [**](https://karatay.edu.tr/) 
     KTO Karatay University, Konya/Turkey
 
 -   **Bachelor's Degree**, Electrical and Electronics Engineering (2009 - 2011) [**](https://www.baskent.edu.tr/en/) Başkent University, Ankara/Turkey
