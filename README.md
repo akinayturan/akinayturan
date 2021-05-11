@@ -34,7 +34,7 @@ Education
 -   **Master of Science Degree**, Electrical and Computer Engineering (2017 - 2019)  [**](https://karatay.edu.tr/) 
     KTO Karatay University, Konya/Turkey
 
--   **Bachelor's Degree**, Electrical and Electronics Engineering (2009 - 2011) [**](https://www.baskent.edu.tr/en/) Başkent University, Ankara/Turkey
+-   **Bachelor's Degree**, Electrical and Electronics Engineering (2009 - 2015) [**](https://www.baskent.edu.tr/en/) Başkent University, Ankara/Turkey
     
 -   **High School**, Science High School (2004 - 2007) [**](https://www.gazikoleji.k12.tr/Fen-Lisesi) Gazi University Foundation Science High School, Ankara/Turkey
 
