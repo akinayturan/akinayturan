@@ -8,8 +8,7 @@ I love to talk with you about our unique.
 * * * * *
 
 <center>
-
-![Akin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=akinayturan&show_icons=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?include_all_commits=true&hide_title=true&username=akinayturan&count_private=true&show_icons=true&theme=graywhite) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=akinayturan&layout=compact)
 
 * * * * *
 
