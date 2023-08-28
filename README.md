@@ -1,7 +1,6 @@
 ### Hi, I am a [Software & Web Developer](https://akin.ayturan.com/) 
 
-I have rich experience in website building, design and customization. Good at Wordpress, Laravel, React. Plesk, WHM/Cpanel, CWP server management and all website setup with backup
-process. Also design control and layout with HTML, CSS to all platform.
+I have rich experience in web site design, building and customization. Good at React (NextJs), Laravel and WordPress. Also knowledgeable about .NET Core and Codignighter. I used Plesk, WHM/Cpanel, CWP, Vespa Hosting Control Panel for all site setup processes and backup. Also, can do design control and layout with HTML5, CSS3 to all platforms.
 
 I love to talk with you about our unique.
 
